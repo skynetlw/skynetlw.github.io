@@ -1,3 +1,4 @@
+CCTV-13 新闻频道,http://154.12.55.21/bjzb/zb.php?id=239.3.1.124:8128
 CCTV-13,http://119.98.133.130:4000/udp/239.254.96.161:9040
 CCTV-13,http://123.180.177.20:16000/udp/239.253.92.13:8008
 CCTV-13,https://stream1.freetv.fun/639366672eb6795638eafe3be83fc55a8140a3af421f10f4ad14cfb52edb57db.ctv
