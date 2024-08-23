@@ -1,3 +1,5 @@
 CCTV-13,https://stream1.freetv.fun/639366672eb6795638eafe3be83fc55a8140a3af421f10f4ad14cfb52edb57db.ctv
 HOY TV,https://stream1.freetv.fun/hoy-tv-zi-xun-2.m3u8
+TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
+TVB新闻台,https://epg.pw/stream/d921646bb0337ca8745a99b2d9b535287b2e71993b2c87b7b4b67c4e3d211495.m3u8
 CNN International,https://epg.pw/stream/6fc4928b85e47e1afd5807e1ac5bc63be0a770009d26c46905ddfd87d4bcc25a.m3u8
