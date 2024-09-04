@@ -1,10 +1,7 @@
-CCTV-13 124.205.11.242,http://124.205.11.242:91/live/CCTV13hd-8M/live.m3u8
-CCTV-13 123.138.216.44,http://123.138.216.44:9902/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13 154.12.55.21,http://154.12.55.21/bjzb/zb.php?id=239.3.1.124:8128
-CCTV-13 119.98.133.130,http://119.98.133.130:4000/udp/239.254.96.161:9040
-CCTV-13 123.180.177.20,http://123.180.177.20:16000/udp/239.253.92.13:8008
-CCTV-13 stream1.freetv.fun,https://stream1.freetv.fun/639366672eb6795638eafe3be83fc55a8140a3af421f10f4ad14cfb52edb57db.ctv
-HOY TV,https://stream1.freetv.fun/hoy-tv-zi-xun-2.m3u8
+CCTV-13 01,http://124.205.11.242:91/live/CCTV13hd-8M/live.m3u8
+CCTV-13 02,http://123.138.216.44:9902/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13 03,http://154.12.55.21/bjzb/zb.php?id=239.3.1.124:8128
+CCTV-13 04,http://119.98.133.130:4000/udp/239.254.96.161:9040
+CCTV-13 05,http://123.180.177.20:16000/udp/239.253.92.13:8008
+CCTV-13 06,https://stream1.freetv.fun/639366672eb6795638eafe3be83fc55a8140a3af421f10f4ad14cfb52edb57db.ctv
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
-TVB新闻台,https://epg.pw/stream/d921646bb0337ca8745a99b2d9b535287b2e71993b2c87b7b4b67c4e3d211495.m3u8
-CNN International,https://epg.pw/stream/6fc4928b85e47e1afd5807e1ac5bc63be0a770009d26c46905ddfd87d4bcc25a.m3u8
