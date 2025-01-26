@@ -1,4 +1,5 @@
 CCTV-13 01,http://z.b.bkpcp.top/m.php?id=cctv13
+CCTV-13 03,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-13 02,https://tvpull.careryun.com/tv/cctv13.m3u8
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-5,http://z.b.bkpcp.top/m.php?id=cctv5
